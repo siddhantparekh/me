@@ -1,8 +1,13 @@
 .about {
-	padding: 5%;
-	font-size: large;
+  padding: 5% 15%;
+  font-size: large;
 }
 
 .about p {
-	padding: 0 10%;
+  padding: 0 10%;
+  font-size: larger;
+}
+
+.about h2 {
+  padding: 1% 10%;
 }
